@@ -1,2 +1,2 @@
 # BLG223E-DataStructersHWs
-Homework codes from Data Structers course written by using C++.
+Homeworks from Data Structers course written with C++.
